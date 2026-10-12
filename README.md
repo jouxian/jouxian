@@ -1,4 +1,4 @@
-# Hi, I'm Jouxian 👋
+# Hi, I'm Seno 👋
 
 **PowerShell automation · Windows tooling · Practical open-source utilities**
 
